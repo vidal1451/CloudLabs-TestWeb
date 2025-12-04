@@ -1,0 +1,14 @@
+{
+"companyName": "CloudLabs",
+"productName": "CloudLabs - Sistema de inyección electrónica de gasolina",
+"dataUrl": "Mel-sisInyeccion-WEB-v01.data.unityweb",
+"asmCodeUrl": "Mel-sisInyeccion-WEB-v01.asm.code.unityweb",
+"asmMemoryUrl": "Mel-sisInyeccion-WEB-v01.asm.memory.unityweb",
+"asmFrameworkUrl": "Mel-sisInyeccion-WEB-v01.asm.framework.unityweb",
+"TOTAL_MEMORY": 2130706432,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}
