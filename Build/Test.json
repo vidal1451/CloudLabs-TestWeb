@@ -1,0 +1,12 @@
+{
+"companyName": "CloudLabs",
+"productName": "Cloudlabs - Balance hídrico",
+"dataUrl": "Test.data.unityweb",
+"wasmCodeUrl": "Test.wasm.code.unityweb",
+"wasmFrameworkUrl": "Test.wasm.framework.unityweb",
+"TOTAL_MEMORY": 2130706432,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
